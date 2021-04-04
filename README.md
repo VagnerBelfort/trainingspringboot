@@ -15,8 +15,8 @@
 
 ### Modelo conceitual
 
-![myImage](https://github.com/VagnerBelfort/RestWithSpringBoot/blob/main/trainingspringboot/domain-model.png)
+![myImage](https://github.com/VagnerBelfort/trainingspringboot/blob/master/domain-model.png)
 
 ### Instância
 
-![myImage](https://github.com/VagnerBelfort/RestWithSpringBoot/blob/main/trainingspringboot/domain-instance.png)
+![myImage](https://github.com/VagnerBelfort/trainingspringboot/blob/master/domain-instance.png)
